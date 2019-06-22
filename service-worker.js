@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.34dcf85e044fc1932fee181478eb2fa5.js"
+  "/precache-manifest.bee73c1743f47653c75040775cfe3bab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mmsr-survey"});

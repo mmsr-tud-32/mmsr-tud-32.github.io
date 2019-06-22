@@ -48,8 +48,12 @@ self.__precacheManifest = [
     "url": "/js/submit.f00c4b3f.js"
   },
   {
-    "revision": "e6cf26fc301265abad5e59ab397c47f4",
+    "revision": "615b379370da614bc785259cdad1bb98",
     "url": "/index.html"
+  },
+  {
+    "revision": "7dc3443ca5827e4b7d94cfd6883e7f1f",
+    "url": "/404.html"
   },
   {
     "revision": "447d6b64434379fc00b1a73be5f0377f",
