@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["error"],{dda8:function(r,t,e){"use strict";e.r(t);var n=function(){var r=this,t=r.$createElement,e=r._self._c||t;return e("div",[e("h2",[r._v(r._s(r.$t("error_title")))]),e("p",[r._v(r._s(r.$t("error")))]),e("router-link",{staticClass:"btn btn-primary",attrs:{to:"/"}},[r._v(r._s(r.$t("back")))])],1)},s=[],a={name:"Error"},o=a,i=e("2877"),c=Object(i["a"])(o,n,s,!1,null,"bde31290",null);t["default"]=c.exports}}]);
+//# sourceMappingURL=error.9a988dbe.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["intro-short"],{bac4:function(t,n,r){"use strict";r.r(n);var o=function(){var t=this,n=t.$createElement,r=t._self._c||n;return r("div",[r("h1",[t._v(t._s(t.$t("intro_short_title")))]),r("p",[t._v("\n    "+t._s(t.$t("intro_short_body"))+"\n  ")]),r("router-link",{staticClass:"btn btn-primary",attrs:{to:"/short"}},[t._v(t._s(t.$t("btn_short")))])],1)},s=[],e={name:"IntroShort"},a=e,i=r("2877"),_=Object(i["a"])(a,o,s,!1,null,"218daf03",null);n["default"]=_.exports}}]);
+//# sourceMappingURL=intro-short.86f55e3a.js.map
