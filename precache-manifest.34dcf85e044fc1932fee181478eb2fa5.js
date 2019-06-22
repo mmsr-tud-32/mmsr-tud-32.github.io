@@ -52,6 +52,10 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
+    "revision": "447d6b64434379fc00b1a73be5f0377f",
+    "url": "/CNAME"
+  },
+  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   }
