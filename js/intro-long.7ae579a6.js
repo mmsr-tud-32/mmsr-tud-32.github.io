@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["intro-long"],{7862:function(n,t,o){"use strict";o.r(t);var r=function(){var n=this,t=n.$createElement,o=n._self._c||t;return o("div",[o("h1",[n._v(n._s(n.$t("intro_long_title")))]),o("p",[n._v("\n    "+n._s(n.$t("intro_long_body"))+"\n  ")]),o("router-link",{staticClass:"btn btn-primary",attrs:{to:"/long"}},[n._v(n._s(n.$t("btn_long")))])],1)},e=[],l={name:"IntroLong"},s=l,i=o("2877"),_=Object(i["a"])(s,r,e,!1,null,"def31686",null);t["default"]=_.exports}}]);
-//# sourceMappingURL=intro-long.7ae579a6.js.map
