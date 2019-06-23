@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "226e5ad9a4a93563a42d",
-    "url": "/js/app.ba02da8a.js"
+    "revision": "1c5c89dce390d90c3fd6",
+    "url": "/js/app.98f0e5cc.js"
   },
   {
     "revision": "0cf374dda8ba18108bef",
@@ -20,35 +20,35 @@ self.__precacheManifest = [
     "url": "/js/error.409d559d.js"
   },
   {
-    "revision": "89a27a017e2a63214ea5",
-    "url": "/js/intro-long.45edc51f.js"
+    "revision": "15c998da75b82aa290f8",
+    "url": "/js/intro-long.cfabff71.js"
   },
   {
     "revision": "66893e04cfea39756ea4",
     "url": "/js/intro-practise.15508ae9.js"
   },
   {
-    "revision": "70b0618f671d5f53851e",
-    "url": "/js/intro-short.c29408df.js"
+    "revision": "c9db30dbb3797cc71e7e",
+    "url": "/js/intro-short.5d46d467.js"
   },
   {
-    "revision": "b7585e8e561425dccfea",
-    "url": "/js/long.ae69b26d.js"
+    "revision": "60c2a15ce29cae6e70b0",
+    "url": "/js/long.70325a1f.js"
   },
   {
-    "revision": "9e90bb74a254f4cc5b21",
-    "url": "/js/practise.907c8be9.js"
+    "revision": "25f6b4e0f0c54db01e55",
+    "url": "/js/practise.ad62ffdb.js"
   },
   {
-    "revision": "7af33d0c7df145ee0186",
-    "url": "/js/short.75663a95.js"
+    "revision": "c1ffabc82a6e28e72766",
+    "url": "/js/short.b5b12445.js"
   },
   {
     "revision": "deecf979e5fdf3151338",
     "url": "/js/submit.0d1065a1.js"
   },
   {
-    "revision": "ba98e1fd04c037a38379dfe1b58655b2",
+    "revision": "361916058a6088e58cee9b9dc30b1fa0",
     "url": "/index.html"
   },
   {
