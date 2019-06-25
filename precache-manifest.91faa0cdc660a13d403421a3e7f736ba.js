@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "cf3af17e54d4f8df7224",
-    "url": "/js/app.bbc27228.js"
+    "revision": "2876915b805bdef9e661",
+    "url": "/js/app.05292acb.js"
   },
   {
     "revision": "0cf374dda8ba18108bef",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/js/short.b5b12445.js"
   },
   {
-    "revision": "deecf979e5fdf3151338",
-    "url": "/js/submit.0d1065a1.js"
+    "revision": "9a069258890fcff64e92",
+    "url": "/js/submit.8c210726.js"
   },
   {
-    "revision": "7ad6bead27aef3aa4b98353733047774",
+    "revision": "298e566b363996ede08e88f27aa8721e",
     "url": "/index.html"
   },
   {
