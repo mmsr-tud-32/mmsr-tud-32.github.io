@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["intro-practise"],{e7bf:function(t,n,r){"use strict";r.r(n);var e=function(){var t=this,n=t.$createElement,r=t._self._c||n;return r("div",[r("h1",[t._v(t._s(t.$t("intro_practise_title")))]),r("p",[t._v("\n    "+t._s(t.$t("intro_practise_body"))+"\n  ")]),r("router-link",{staticClass:"btn btn-primary",attrs:{to:"/practise"}},[t._v(t._s(t.$t("btn_practise")))])],1)},s=[],i={name:"IntroPractise"},a=i,c=r("2877"),o=Object(c["a"])(a,e,s,!1,null,"5f2c929b",null);n["default"]=o.exports}}]);
-//# sourceMappingURL=intro-practise.15508ae9.js.map
+//# sourceMappingURL=intro-practise.beeeb912.js.map
